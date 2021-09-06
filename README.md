@@ -1,4 +1,12 @@
+NodeJS API Basic - Just a Basic Blog
 
+-----------------------------
+
+running the project
+1. npm i
+2. mongoDB are secret files so i can post it here they are in the .env folder
+
+-----------------------------
 
 // npm i morgan: middle ware, it helps to read routes request in the terminal
 
